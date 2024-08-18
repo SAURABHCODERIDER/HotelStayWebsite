@@ -1,2 +1,2 @@
 Hotel Stay Website <br>
-Auther-Coderider
+Author-Coderider
